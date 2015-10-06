@@ -1,0 +1,1 @@
+To run the notebook in the browser please run `jupyter nbconvert Metis\ -\ Undetermined\ Models.ipynb --to slides --post serve`
